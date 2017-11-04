@@ -1,2 +1,5 @@
 img/*
+.ipynb_checkpoints/*
+.python-version
 !.gitkeep
+
